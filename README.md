@@ -22,3 +22,6 @@ In the second (Develop) foler I create 6 models using (SVM with rbf) out of diff
 Lastly, the third folder (Deliver) well... I deliver, I deliver the visual representations of the model's performance saved under 4th (Graph) folder.
 
 Straight out of an MOOC (udemy), however I have not done a lot of coding nor theory in the past 5 months as I was busy studying. My excuse for possible (head scratchers and overall confusion) given that someone ever reads this. 
+
+
+I would more than welcome suggestions, reccomendations how to improve the code, the whole set up, model. But also direct comments when my description/organization seems to be unclear as well as mistakes within the application of the model and data cleaning. 
