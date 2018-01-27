@@ -1,7 +1,6 @@
 # BSc-Thesis-Finance Major
 (International Business, Maastricht University, Netherlands)
-"On the trails of Dragon Kings - Predicting the highly improbable"
-Yield Curve as Recession Indicator in the framework of Machine Learning 
+**"On the trails of Dragon Kings - Predicting the highly improbable" _Yield Curve as Recession Indicator in the framework of Machine Learning_** 
 
 
 Abstract
